@@ -1,0 +1,20 @@
+{
+  "name": "ty-icomoon",
+  "moduleType": "globals",
+  "main": [
+    "style.scss"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "lib",
+    "tasks",
+    "templates",
+    "test",
+    "*.gemspec",
+    "Rakefile",
+    "Gemfile"
+  ],
+  "version": "0.0.0"
+}
+
