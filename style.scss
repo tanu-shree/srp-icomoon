@@ -24,6 +24,15 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-sort-down:before {
+  content: "\e913";
+}
+.icon-sort-up:before {
+  content: "\e914";
+}
+.icon-tick:before {
+  content: "\e915";
+}
 .icon-blanket:before {
   content: "\e900";
 }
@@ -65,6 +74,9 @@
 }
 .icon-steering:before {
   content: "\e90d";
+}
+.icon-toilet:before {
+  content: "\e917";
 }
 .icon-tv:before {
   content: "\e90e";
